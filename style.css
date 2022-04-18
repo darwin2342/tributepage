@@ -1,0 +1,35 @@
+body{
+    background-color: #337def;
+    color: #fcc729;
+}
+.title{
+    
+    color: #fcc729 ;
+    text-align: center;
+    margin-bottom:0 ;
+    font-size: 3rem;
+}
+
+.img-div{
+    text-align: center;
+    font-size: 1.5rem;
+    background-color:#176ff3 ;
+    margin:0 auto;
+    display: block;
+}
+
+.tribute-info{
+    text-align: center;
+    margin: 16px;
+    font-size: 1.5rem;
+    align-items: center;
+}
+
+.ul{
+    list-style-type: square;
+    margin: 16px;
+    line-height: 1rem;
+}
+li{
+    display: list-item;
+}
